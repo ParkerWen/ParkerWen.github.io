@@ -5,7 +5,7 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <hr/>
 
-### [我的简历](https://github.com/ParkerWen/ParkerWen.github.io/edit/master/content/cv)
+### [我的简历](https://parkerwen.github.io/content/cv)
 <hr/>
 
 ### Markdown
